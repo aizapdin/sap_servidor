@@ -1,0 +1,29 @@
+# Dependências
+node_modules/
+
+# Arquivos de dados temporários
+data/cards/*.pdf
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+
